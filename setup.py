@@ -11,7 +11,7 @@ setup(
     description="Data Engineering Analytics Platform",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/JoseRoberts87/project-deap",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
