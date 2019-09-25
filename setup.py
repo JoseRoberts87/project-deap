@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="project-deap",
-    version="0.0.2",
+    version="0.0.3",
     author="joseroberts87",
     author_email="jose.roberts@intracitygeeks.org",
     description="Data Engineering Analytics Platform",
